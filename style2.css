@@ -14,7 +14,7 @@ h1 {
   color: #2E9939;
   text-align: center;
   font-size:60pt;
-  padding-top: 100px;
+  padding-top: 10px;
  
 }
 
@@ -50,7 +50,7 @@ p.move-mid {
   padding-left: 0%;
   text-align: center;
    margin: auto;
-   padding-bottom: 100px;
+   padding-bottom: 20px;
    color: red;
 }
 .h2{
