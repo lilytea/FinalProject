@@ -22,6 +22,7 @@ h2 {
   color: #2E5999;
   text-align: center;
   padding-bottom: 20px;
+  font-size:45pt;
 }
 
 p {
@@ -44,7 +45,7 @@ p.move-mid {
   font-weight: 500;
   padding: 0px;
   padding-left: 25%;
-  font-size:20pt;
+  font-size:50pt;
   line-height: 150%;
   padding-left: 0%;
   text-align: center;
@@ -57,7 +58,7 @@ p.move-mid {
   font-weight: 500;
   padding: 0px;
   padding-left: 25%;
-  font-size:10pt;
+  font-size:30pt;
   line-height: 150%;
   padding-left: 0%;
   text-align: center;
